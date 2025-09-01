@@ -1,27 +1,35 @@
+accessibility = الإتاحة
+    .screen-reader = قارئ الشاشة
+    .magnifier = المكبّر
+    .high-contrast = تباين عالٍ
+    .invert-colors = اعكس الألوان
 cancel = ألغِ
-keyboard-layout = مُخطَّطُ لوحَةِ المَفاتِيح
+caps-lock = مفتاح Caps Lock مفعّل
+enter-user = أدخل الاسم يدويًا...
+type-username = اسم المستخدم:
+keyboard-layout = تخطيط لوحة المفاتيح
 restart = أعِد التَّشغيل
-restart-now = أمُتأكِّدٌ مِن إعادةِ التَّشغيلِ الآن؟
-restart-timeout = سَيُعادُ تشغيلَ النِّظامِ تِلْقائِيًّا خِلالَ
+restart-now = إعادة التَّشغيل الآن؟
+restart-timeout = سيُعادُ تشغيل النظام تلقائيًّا خلال
   { $seconds ->
-    [zero] لَحظَة.
-    [one] ثانيةٍ واحِدَة.
-    [two] ثانِيَتَين.
+    [zero] لحظة.
+    [one] ثانيةٍ واحدة.
+    [two] ثانيتين.
     [few] {$seconds} ثوانٍ.
-    [many] {$seconds} ثانِية.
-    *[other] {$seconds} ثانِية.
+    [many] {$seconds} ثانية.
+    *[other] {$seconds} ثانية.
   }
-session = الجَّلسَة
+session = الجلسة
 shutdown = أوقِف التَّشغيل
-shutdown-now = أمُتأكِّدٌ مِن إيقافِ التَّشغيلِ الآن؟
-shutdown-timeout = سَيُوقَفُ تشغيلَ النِّظامِ تِلْقائِيًّا خِلالَ
+shutdown-now = أوقِف التَّشغيل الآن؟
+shutdown-timeout = سيُوقفُ تشغيل النظام تلقائيًّا خلال
   { $seconds ->
-    [zero] لَحظَة.
-    [one] ثانيةٍ واحِدَة.
-    [two] ثانِيَتَين.
+    [zero] لحظة.
+    [one] ثانيةٍ واحدة.
+    [two] ثانيتين.
     [few] {$seconds} ثوانٍ.
-    [many] {$seconds} ثانِية.
-    *[other] {$seconds} ثانِية.
+    [many] {$seconds} ثانية.
+    *[other] {$seconds} ثانية.
   }
-suspend = عَلِّق
-user = المُستَخدِم
+suspend = علِّق
+user = المُستخدم
